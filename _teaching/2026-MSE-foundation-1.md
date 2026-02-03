@@ -21,7 +21,7 @@ The session focuses on building intuition and technical proficiency required for
 
 * Matrix notation and dimensions  
 * Matrix addition and multiplication  
-* Identity and inverse matrices  
+* Identity matrices  
 * Transpose and basic matrix properties  
 * Economic and econometric applications of matrix algebra  
 
@@ -29,7 +29,7 @@ The session focuses on building intuition and technical proficiency required for
 
 ## Tutorial Materials
 
-* [Matrix Algebra Tutorial 1 Notes (PDF)](/assets/tutorials/ECON6018_Tutorial1_MatrixAlgebra.pdf)
+* [Matrix Algebra Tutorial 1 Notes (PDF)](/usr/src/app/files/ECON6018_Tutorial1_MatrixAlgebra.pdf)
 
 ---
 
