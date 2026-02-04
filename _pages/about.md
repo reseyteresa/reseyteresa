@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Teresa Ng | Academic Homepage"
+title: "Teresa Ng Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
