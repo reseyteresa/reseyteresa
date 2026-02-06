@@ -36,3 +36,35 @@ This tutorial introduces **Differentiation** as a core mathematical tool for gra
 
 This tutorial is part of the **Master of Science in Economics (MSE)** foundational training.  
 It focuses on developing fluency in differentiation techniques commonly used in utility maximization, comparative statics, and analytical derivations in graduate-level economic models.
+
+---
+
+## Feedback
+
+<form action="https://formspree.io/f/mkovwepn" method="POST">
+  <label>
+    <strong>Tutorial (e.g. Tutorial 1, Tutorial 2, ECON 6018 Tutorial 3)</strong><br>
+    <input type="text" name="tutorial" required
+           placeholder="e.g. ECON 6018 Tutorial 3"
+           style="width:100%; padding:8px; margin-top:4px;">
+  </label>
+  <br><br>
+
+  <label>
+    <strong>Name</strong><br>
+    <input type="text" name="name" required
+           style="width:100%; padding:8px; margin-top:4px;">
+  </label>
+  <br><br>
+
+  <label>
+    <strong>Feedback on this tutorial</strong><br>
+    <textarea name="message" rows="4" required
+              style="width:100%; padding:8px; margin-top:4px;"></textarea>
+  </label>
+
+  <br><br>
+  <button type="submit" style="padding:8px 16px;">Submit Feedback</button>
+</form>
+
+---

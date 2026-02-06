@@ -26,7 +26,7 @@ author:
   name             : "Teresa Ng Yan Ting"
   bio              : "I am a Graduate student in Economics with a passion for teaching and research. I tutor mathematics and economics and am particularly interested in how economic theory connects to real-world policy and data."
   location         : "Singapore"
-  employer         : "Singapore Management University"
+  #employer         : "Singapore Management University"
   uri              : # URL
   email            : "ng.teresa.1999@gmail.com" 
 
